@@ -10,4 +10,8 @@ module.exports = {
     enable: true,
     package: 'egg-mysql',
   },
+  mssql: {
+    enable: true,
+    package: 'egg-mssql',
+  },
 };
